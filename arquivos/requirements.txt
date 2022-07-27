@@ -1,0 +1,6 @@
+pip install playsound==1.2.2
+pip install gspread
+pip install xlrd
+pip install openpyxl
+
+
